@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "tmpauthenticator",
+  "versions": [
+    {
+      "commit": "49cb1fb144a06e03dfab835f76e8fc5b222446b1",
+      "tag": "",
+      "parsed_at": "2026-10-15T10:12:05.518826+00:00"
+    }
+  ]
+}
